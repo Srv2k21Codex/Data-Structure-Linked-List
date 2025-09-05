@@ -20,13 +20,13 @@ The program provides options such as insertion, deletion, searching, counting no
 ## 📋 Menu Screenshot
 Here’s the menu you’ll see when you run the program:
 
-![Menu Screenshot](Screenshot 2025-09-05 235738.png)
+![Menu Screenshot](screenshot.png)
 
-*(Make sure you add your screenshot inside an `assets/` folder in your repo with the name `menu.png`.)*
 
----
 
 ## 🛠️ How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/linked-list-menu.git
+C:\Users\HP\Desktop\c++\README.md 
+C:\Users\HP\Desktop\c++\Screenshot 2025-09-05 235738.png
