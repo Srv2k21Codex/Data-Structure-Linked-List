@@ -28,5 +28,3 @@ Here’s the menu you’ll see when you run the program:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/linked-list-menu.git
-C:\Users\HP\Desktop\c++\README.md 
-C:\Users\HP\Desktop\c++\Screenshot 2025-09-05 235738.png
